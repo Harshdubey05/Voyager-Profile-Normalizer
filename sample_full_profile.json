@@ -1,0 +1,56 @@
+{
+  "urn": "urn:li:fs_profile:AbCdEf123",
+  "firstName": "Harsh",
+  "lastName": "Dubey",
+  "headline": "🚀 Senior Software Engineer | AI/ML | Open to Work 💼",
+  "summary": "Experienced engineer with 10+ years in backend systems.",
+  "industryName": "Information Technology & Services",
+  "locationName": "Bengaluru, Karnataka, India",
+  "geoLocationName": "Bengaluru",
+  "geoCountryName": "India",
+  "experience": [
+    {
+      "entityUrn": "urn:li:fs_position:(AbCdEf123,111222333)",
+      "companyName": "Google",
+      "title": "Senior Software Engineer",
+      "locationName": "Bengaluru, India",
+      "timePeriod": {
+        "startDate": { "month": 3, "year": 2022 }
+      }
+    },
+    {
+      "entityUrn": "urn:li:fs_position:(AbCdEf123,444555666)",
+      "companyName": "Microsoft",
+      "title": "Software Engineer II",
+      "timePeriod": {
+        "startDate": { "month": 6, "year": 2018 },
+        "endDate": { "month": 2, "year": 2022 }
+      }
+    }
+  ],
+  "education": [
+    {
+      "entityUrn": "urn:li:fs_education:(AbCdEf123,777888999)",
+      "schoolName": "IIT Bombay",
+      "degreeName": "B.Tech",
+      "fieldOfStudy": "Computer Science",
+      "timePeriod": {
+        "startDate": { "year": 2014 },
+        "endDate": { "year": 2018 }
+      }
+    }
+  ],
+  "skills": [
+    { "name": "Python" },
+    { "name": "TypeScript" },
+    { "name": "python" },
+    { "name": "Kubernetes" }
+  ],
+  "languages": [
+    { "name": "English", "proficiency": "NATIVE_OR_BILINGUAL" },
+    { "name": "Hindi", "proficiency": "NATIVE_OR_BILINGUAL" }
+  ],
+  "certifications": [
+    { "name": "AWS Solutions Architect", "authority": "Amazon Web Services" }
+  ]
+}
