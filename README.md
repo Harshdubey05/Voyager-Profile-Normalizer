@@ -1,9 +1,8 @@
 # 🚀 Voyager Profile Normalizer
 
-[![GitHub license](https://img.shields.io/github/license/HarshDubey/Voyager-Profile-Normalizer?style=for-the-badge)](https://github.com/HarshDubey/Voyager-Profile-Normalizer/blob/main/LICENSE)
 [![Fastify](https://img.shields.io/badge/fastify-v5.0.0-black?style=for-the-badge&logo=fastify)](https://www.fastify.io/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-v5.0.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Tests](https://img.shields.io/badge/tests-57%20passed-brightgreen?style=for-the-badge)](https://github.com/HarshDubey/Voyager-Profile-Normalizer)
+[![Tests](https://img.shields.io/badge/tests-57%20passed-brightgreen?style=for-the-badge)](https://github.com/HarshDubey05/Voyager-Profile-Normalizer)
 
 > **High-performance LinkedIn profile data cleaning API built with Fastify and TypeScript.**
 
