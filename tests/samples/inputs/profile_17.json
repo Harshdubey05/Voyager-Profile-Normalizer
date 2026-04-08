@@ -1,0 +1,36 @@
+{
+  "public_identifier": " user-17 ",
+  "first_name": null,
+  "last_name": null,
+  "full_name": " Eve   White ",
+  "headline": "  Data Scientist  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": "Toronto, Canada",
+  "positions": [
+    {
+      "title": " CTO ",
+      "company_name": " Microsoft ",
+      "location": "San Francisco, CA",
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": null
+      }
+    },
+    {
+      "title": " Designer ",
+      "company_name": " Meta ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    }
+  ],
+  "educations": []
+}

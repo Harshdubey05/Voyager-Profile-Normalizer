@@ -1,0 +1,37 @@
+{
+  "public_identifier": "user-15",
+  "linkedin_url": "https://www.linkedin.com/in/user-15/",
+  "first_name": "Oscar",
+  "last_name": "Martinez",
+  "full_name": "Oscar Martinez",
+  "headline": "Marketing Head | \ud83d\ude80",
+  "current_role_title": "Data Scientist",
+  "company_name": "Uber",
+  "location_name": "San Francisco, CA",
+  "summary": "",
+  "positions": [
+    {
+      "title": "Data Scientist",
+      "company_name": "Uber",
+      "location": "San Francisco, CA"
+    },
+    {
+      "title": "Designer",
+      "company_name": "Airbnb",
+      "location": ""
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "Harvard",
+      "degree_name": "Diploma",
+      "field_of_study": "Computer Science"
+    },
+    {
+      "school_name": "Harvard",
+      "degree_name": "",
+      "field_of_study": "Computer Science"
+    }
+  ],
+  "profile_text": "marketing head | \ud83d\ude80 san francisco, ca data scientist uber san francisco, ca designer airbnb harvard diploma computer science harvard computer science"
+}

@@ -1,0 +1,49 @@
+{
+  "public_identifier": " user-38 ",
+  "first_name": " Heidi ",
+  "last_name": null,
+  "full_name": null,
+  "headline": "  CEO  |  \ud83d\ude80  ",
+  "summary": "This is a summary with   some    extra spaces.",
+  "location_name": "Paris, France",
+  "positions": [
+    {
+      "title": " Product Manager ",
+      "company_name": " Amazon ",
+      "location": "San Francisco, CA",
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": null
+      }
+    },
+    {
+      "title": " Sales Associate ",
+      "company_name": " Microsoft ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    },
+    {
+      "title": " CTO ",
+      "company_name": " Airbnb ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2018
+        },
+        "end": {
+          "year": 2019
+        }
+      }
+    }
+  ],
+  "educations": []
+}

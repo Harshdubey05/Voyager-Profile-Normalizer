@@ -1,0 +1,31 @@
+{
+  "public_identifier": "",
+  "linkedin_url": "",
+  "first_name": "Rose",
+  "last_name": "Smith",
+  "full_name": "Rose Smith",
+  "headline": "",
+  "current_role_title": "Data Scientist",
+  "company_name": "Amazon",
+  "location_name": "",
+  "summary": "This is a summary with some extra spaces.",
+  "positions": [
+    {
+      "title": "Data Scientist",
+      "company_name": "Amazon",
+      "location": "San Francisco, CA"
+    },
+    {
+      "title": "Data Scientist",
+      "company_name": "Netflix",
+      "location": ""
+    },
+    {
+      "title": "CTO",
+      "company_name": "Uber",
+      "location": "Tokyo, Japan"
+    }
+  ],
+  "educations": [],
+  "profile_text": "this is a summary with some extra spaces. data scientist amazon san francisco, ca data scientist netflix cto uber tokyo, japan"
+}

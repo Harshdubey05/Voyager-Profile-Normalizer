@@ -1,0 +1,26 @@
+{
+  "public_identifier": "user-14",
+  "linkedin_url": "https://www.linkedin.com/in/user-14/",
+  "first_name": "Eve",
+  "last_name": "Thomas",
+  "full_name": "Niaj Anderson",
+  "headline": "Sales Associate | \ud83d\ude80",
+  "current_role_title": "",
+  "company_name": "",
+  "location_name": "Toronto, Canada",
+  "summary": "",
+  "positions": [],
+  "educations": [
+    {
+      "school_name": "Wharton",
+      "degree_name": "",
+      "field_of_study": "Computer Science"
+    },
+    {
+      "school_name": "Oxford",
+      "degree_name": "M.S.",
+      "field_of_study": ""
+    }
+  ],
+  "profile_text": "sales associate | \ud83d\ude80 toronto, canada wharton computer science oxford m.s."
+}

@@ -1,0 +1,26 @@
+{
+  "public_identifier": "user-17",
+  "linkedin_url": "https://www.linkedin.com/in/user-17/",
+  "first_name": "Eve",
+  "last_name": "White",
+  "full_name": "Eve White",
+  "headline": "Data Scientist | \ud83d\ude80",
+  "current_role_title": "CTO",
+  "company_name": "Microsoft",
+  "location_name": "Toronto, Canada",
+  "summary": "",
+  "positions": [
+    {
+      "title": "CTO",
+      "company_name": "Microsoft",
+      "location": "San Francisco, CA"
+    },
+    {
+      "title": "Designer",
+      "company_name": "Meta",
+      "location": ""
+    }
+  ],
+  "educations": [],
+  "profile_text": "data scientist | \ud83d\ude80 toronto, canada cto microsoft san francisco, ca designer meta"
+}

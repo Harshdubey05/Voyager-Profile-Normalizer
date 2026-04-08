@@ -1,0 +1,18 @@
+{
+  "public_identifier": " user-42 ",
+  "first_name": " Grace ",
+  "last_name": " Garcia ",
+  "full_name": null,
+  "headline": "  HR Specialist  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": "London, UK",
+  "positions": [
+    {
+      "title": " Marketing Head ",
+      "company_name": " Amazon ",
+      "location": "Sydney, Australia",
+      "date_range": null
+    }
+  ],
+  "educations": []
+}

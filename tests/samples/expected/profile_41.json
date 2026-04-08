@@ -1,0 +1,31 @@
+{
+  "public_identifier": "user-41",
+  "linkedin_url": "https://www.linkedin.com/in/user-41/",
+  "first_name": "Sybil",
+  "last_name": "Wilson",
+  "full_name": "Sybil Wilson",
+  "headline": "",
+  "current_role_title": "",
+  "company_name": "",
+  "location_name": "Paris, France",
+  "summary": "This is a summary with some extra spaces.",
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "company_name": "Spotify",
+      "location": "Sydney, Australia"
+    },
+    {
+      "title": "CEO",
+      "company_name": "Apple",
+      "location": "Sydney, Australia"
+    },
+    {
+      "title": "Product Manager",
+      "company_name": "Uber",
+      "location": ""
+    }
+  ],
+  "educations": [],
+  "profile_text": "this is a summary with some extra spaces. paris, france software engineer spotify sydney, australia ceo apple sydney, australia product manager uber"
+}

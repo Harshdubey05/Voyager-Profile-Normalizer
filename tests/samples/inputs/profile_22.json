@@ -1,0 +1,42 @@
+{
+  "public_identifier": " user-22 ",
+  "first_name": " Oscar ",
+  "last_name": " Jackson ",
+  "full_name": null,
+  "headline": "",
+  "summary": "This is a summary with   some    extra spaces.",
+  "location_name": "London, UK",
+  "positions": [
+    {
+      "title": " Designer ",
+      "company_name": " Apple ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": null
+      }
+    },
+    {
+      "title": " Marketing Head ",
+      "company_name": " Microsoft ",
+      "location": "San Francisco, CA",
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    }
+  ],
+  "educations": [
+    {
+      "school_name": " Insead ",
+      "degree_name": " B.Tech ",
+      "field_of_study": ""
+    }
+  ]
+}

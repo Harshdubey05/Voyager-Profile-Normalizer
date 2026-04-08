@@ -1,0 +1,42 @@
+{
+  "public_identifier": " user-2 ",
+  "first_name": " Grace ",
+  "last_name": " Wilson ",
+  "full_name": null,
+  "headline": "  Data Scientist  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": "Sydney, Australia",
+  "positions": [
+    {
+      "title": " CEO ",
+      "company_name": " Google ",
+      "location": "Paris, France",
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": null
+      }
+    },
+    {
+      "title": " Marketing Head ",
+      "company_name": " Netflix ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    }
+  ],
+  "educations": [
+    {
+      "school_name": " Cambridge ",
+      "degree_name": null,
+      "field_of_study": ""
+    }
+  ]
+}

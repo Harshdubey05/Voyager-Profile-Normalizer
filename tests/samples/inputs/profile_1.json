@@ -1,0 +1,22 @@
+{
+  "public_identifier": null,
+  "first_name": " Peggy ",
+  "last_name": " Taylor ",
+  "full_name": null,
+  "headline": "  Sales Associate  |  \ud83d\ude80  ",
+  "summary": "This is a summary with   some    extra spaces.",
+  "location_name": "London, UK",
+  "positions": [],
+  "educations": [
+    {
+      "school_name": " NTU ",
+      "degree_name": " Diploma ",
+      "field_of_study": ""
+    },
+    {
+      "school_name": " Stanford University ",
+      "degree_name": null,
+      "field_of_study": ""
+    }
+  ]
+}

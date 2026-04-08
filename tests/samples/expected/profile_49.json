@@ -1,0 +1,31 @@
+{
+  "public_identifier": "user-49",
+  "linkedin_url": "https://www.linkedin.com/in/user-49/",
+  "first_name": "Laura",
+  "last_name": "Jackson",
+  "full_name": "Laura Jackson",
+  "headline": "Sales Associate | \ud83d\ude80",
+  "current_role_title": "CEO",
+  "company_name": "Amazon",
+  "location_name": "Berlin, Germany",
+  "summary": "This is a summary with some extra spaces.",
+  "positions": [
+    {
+      "title": "CEO",
+      "company_name": "Amazon",
+      "location": ""
+    },
+    {
+      "title": "CTO",
+      "company_name": "Apple",
+      "location": ""
+    },
+    {
+      "title": "Designer",
+      "company_name": "Amazon",
+      "location": ""
+    }
+  ],
+  "educations": [],
+  "profile_text": "sales associate | \ud83d\ude80 this is a summary with some extra spaces. berlin, germany ceo amazon cto apple designer amazon"
+}

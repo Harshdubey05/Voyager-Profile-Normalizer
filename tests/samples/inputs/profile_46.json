@@ -1,0 +1,60 @@
+{
+  "public_identifier": " user-46 ",
+  "first_name": " Mallory ",
+  "last_name": null,
+  "full_name": " Frank   Thompson ",
+  "headline": "  Designer  |  \ud83d\ude80  ",
+  "summary": "This is a summary with   some    extra spaces.",
+  "location_name": "London, UK",
+  "positions": [
+    {
+      "title": " Marketing Head ",
+      "company_name": " Google ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": null
+      }
+    },
+    {
+      "title": " Designer ",
+      "company_name": " Amazon ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    },
+    {
+      "title": " DevOps Ninja ",
+      "company_name": " Meta ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2018
+        },
+        "end": {
+          "year": 2019
+        }
+      }
+    }
+  ],
+  "educations": [
+    {
+      "school_name": " NTU ",
+      "degree_name": " M.S. ",
+      "field_of_study": ""
+    },
+    {
+      "school_name": " Insead ",
+      "degree_name": " B.A. ",
+      "field_of_study": ""
+    }
+  ]
+}

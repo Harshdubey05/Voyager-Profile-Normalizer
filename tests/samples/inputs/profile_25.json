@@ -1,0 +1,42 @@
+{
+  "public_identifier": " user-25 ",
+  "first_name": " Kevin ",
+  "last_name": null,
+  "full_name": null,
+  "headline": "  CEO  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": "San Francisco, CA",
+  "positions": [
+    {
+      "title": " DevOps Ninja ",
+      "company_name": " Apple ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": null
+      }
+    },
+    {
+      "title": " Sales Associate ",
+      "company_name": " Netflix ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    }
+  ],
+  "educations": [
+    {
+      "school_name": " IIT Bombay ",
+      "degree_name": " Diploma ",
+      "field_of_study": ""
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "public_identifier": null,
+  "first_name": " Kevin ",
+  "last_name": " Garcia ",
+  "full_name": null,
+  "headline": "  Designer  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": null,
+  "positions": [
+    {
+      "title": " DevOps Ninja ",
+      "company_name": " Airbnb ",
+      "location": "Toronto, Canada",
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": {
+          "year": 2021
+        }
+      }
+    }
+  ],
+  "educations": []
+}

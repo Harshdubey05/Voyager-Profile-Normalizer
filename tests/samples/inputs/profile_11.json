@@ -1,0 +1,44 @@
+{
+  "public_identifier": " user-11 ",
+  "first_name": " Quentin ",
+  "last_name": null,
+  "full_name": null,
+  "headline": "  Marketing Head  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": "Berlin, Germany",
+  "positions": [
+    {
+      "title": " CTO ",
+      "company_name": " Netflix ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": {
+          "year": 2021
+        }
+      }
+    },
+    {
+      "title": " Product Manager ",
+      "company_name": " Spotify ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    }
+  ],
+  "educations": [
+    {
+      "school_name": " MIT ",
+      "degree_name": null,
+      "field_of_study": "Computer Science"
+    }
+  ]
+}

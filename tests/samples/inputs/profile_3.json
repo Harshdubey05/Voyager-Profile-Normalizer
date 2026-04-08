@@ -1,0 +1,49 @@
+{
+  "public_identifier": " user-3 ",
+  "first_name": " Jesper ",
+  "last_name": " Martin ",
+  "full_name": null,
+  "headline": "  Sales Associate  |  \ud83d\ude80  ",
+  "summary": "This is a summary with   some    extra spaces.",
+  "location_name": "Sydney, Australia",
+  "positions": [
+    {
+      "title": " Marketing Head ",
+      "company_name": " Apple ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": {
+          "year": 2021
+        }
+      }
+    },
+    {
+      "title": " Designer ",
+      "company_name": " Uber ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    }
+  ],
+  "educations": [
+    {
+      "school_name": " IIT Bombay ",
+      "degree_name": " MBA ",
+      "field_of_study": "Computer Science"
+    },
+    {
+      "school_name": " NTU ",
+      "degree_name": null,
+      "field_of_study": "Computer Science"
+    }
+  ]
+}

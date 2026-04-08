@@ -1,0 +1,26 @@
+{
+  "public_identifier": "",
+  "linkedin_url": "",
+  "first_name": "Ivan",
+  "last_name": "Rodriguez",
+  "full_name": "Ivan Rodriguez",
+  "headline": "DevOps Ninja | \ud83d\ude80",
+  "current_role_title": "",
+  "company_name": "",
+  "location_name": "Berlin, Germany",
+  "summary": "",
+  "positions": [],
+  "educations": [
+    {
+      "school_name": "Oxford",
+      "degree_name": "",
+      "field_of_study": ""
+    },
+    {
+      "school_name": "Oxford",
+      "degree_name": "MBA",
+      "field_of_study": "Computer Science"
+    }
+  ],
+  "profile_text": "devops ninja | \ud83d\ude80 berlin, germany oxford oxford mba computer science"
+}

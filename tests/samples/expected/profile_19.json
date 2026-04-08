@@ -1,0 +1,42 @@
+{
+  "public_identifier": "user-19",
+  "linkedin_url": "https://www.linkedin.com/in/user-19/",
+  "first_name": "",
+  "last_name": "",
+  "full_name": "",
+  "headline": "Product Manager | \ud83d\ude80",
+  "current_role_title": "Marketing Head",
+  "company_name": "Uber",
+  "location_name": "Berlin, Germany",
+  "summary": "This is a summary with some extra spaces.",
+  "positions": [
+    {
+      "title": "Marketing Head",
+      "company_name": "Uber",
+      "location": ""
+    },
+    {
+      "title": "HR Specialist",
+      "company_name": "Google",
+      "location": ""
+    },
+    {
+      "title": "HR Specialist",
+      "company_name": "Meta",
+      "location": ""
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "MIT",
+      "degree_name": "M.A.",
+      "field_of_study": "Computer Science"
+    },
+    {
+      "school_name": "Harvard",
+      "degree_name": "Ph.D.",
+      "field_of_study": ""
+    }
+  ],
+  "profile_text": "product manager | \ud83d\ude80 this is a summary with some extra spaces. berlin, germany marketing head uber hr specialist google hr specialist meta mit m.a. computer science harvard ph.d."
+}

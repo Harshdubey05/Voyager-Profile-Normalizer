@@ -1,0 +1,42 @@
+{
+  "public_identifier": " user-35 ",
+  "first_name": " Sybil ",
+  "last_name": null,
+  "full_name": " Quentin   Thomas ",
+  "headline": "  Product Manager  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": "Paris, France",
+  "positions": [
+    {
+      "title": " Product Manager ",
+      "company_name": " Netflix ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": null
+      }
+    },
+    {
+      "title": " Data Scientist ",
+      "company_name": " Amazon ",
+      "location": "San Francisco, CA",
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    }
+  ],
+  "educations": [
+    {
+      "school_name": " Oxford ",
+      "degree_name": null,
+      "field_of_study": "Computer Science"
+    }
+  ]
+}

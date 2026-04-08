@@ -1,0 +1,31 @@
+{
+  "public_identifier": "user-38",
+  "linkedin_url": "https://www.linkedin.com/in/user-38/",
+  "first_name": "Heidi",
+  "last_name": "",
+  "full_name": "Heidi",
+  "headline": "CEO | \ud83d\ude80",
+  "current_role_title": "Product Manager",
+  "company_name": "Amazon",
+  "location_name": "Paris, France",
+  "summary": "This is a summary with some extra spaces.",
+  "positions": [
+    {
+      "title": "Product Manager",
+      "company_name": "Amazon",
+      "location": "San Francisco, CA"
+    },
+    {
+      "title": "Sales Associate",
+      "company_name": "Microsoft",
+      "location": ""
+    },
+    {
+      "title": "CTO",
+      "company_name": "Airbnb",
+      "location": ""
+    }
+  ],
+  "educations": [],
+  "profile_text": "ceo | \ud83d\ude80 this is a summary with some extra spaces. paris, france product manager amazon san francisco, ca sales associate microsoft cto airbnb"
+}

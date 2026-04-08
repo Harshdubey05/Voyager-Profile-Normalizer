@@ -1,0 +1,49 @@
+{
+  "public_identifier": " user-32 ",
+  "first_name": " Sybil ",
+  "last_name": " Wilson ",
+  "full_name": null,
+  "headline": "  HR Specialist  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": "Sydney, Australia",
+  "positions": [
+    {
+      "title": " Product Manager ",
+      "company_name": " Meta ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": null
+      }
+    },
+    {
+      "title": " Product Manager ",
+      "company_name": " Airbnb ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    },
+    {
+      "title": " HR Specialist ",
+      "company_name": " Netflix ",
+      "location": "San Francisco, CA",
+      "date_range": {
+        "start": {
+          "year": 2018
+        },
+        "end": {
+          "year": 2019
+        }
+      }
+    }
+  ],
+  "educations": []
+}

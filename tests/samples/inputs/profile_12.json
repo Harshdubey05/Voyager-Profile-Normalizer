@@ -1,0 +1,36 @@
+{
+  "public_identifier": " user-12 ",
+  "first_name": " Charlie ",
+  "last_name": " Lopez ",
+  "full_name": null,
+  "headline": "  Product Manager  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": "Sydney, Australia",
+  "positions": [
+    {
+      "title": " Designer ",
+      "company_name": " Spotify ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": null
+      }
+    },
+    {
+      "title": " Product Manager ",
+      "company_name": " Meta ",
+      "location": "San Francisco, CA",
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    }
+  ],
+  "educations": []
+}

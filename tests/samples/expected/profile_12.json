@@ -1,0 +1,26 @@
+{
+  "public_identifier": "user-12",
+  "linkedin_url": "https://www.linkedin.com/in/user-12/",
+  "first_name": "Charlie",
+  "last_name": "Lopez",
+  "full_name": "Charlie Lopez",
+  "headline": "Product Manager | \ud83d\ude80",
+  "current_role_title": "Designer",
+  "company_name": "Spotify",
+  "location_name": "Sydney, Australia",
+  "summary": "",
+  "positions": [
+    {
+      "title": "Designer",
+      "company_name": "Spotify",
+      "location": ""
+    },
+    {
+      "title": "Product Manager",
+      "company_name": "Meta",
+      "location": "San Francisco, CA"
+    }
+  ],
+  "educations": [],
+  "profile_text": "product manager | \ud83d\ude80 sydney, australia designer spotify product manager meta san francisco, ca"
+}

@@ -1,0 +1,21 @@
+{
+  "public_identifier": "user-45",
+  "linkedin_url": "https://www.linkedin.com/in/user-45/",
+  "first_name": "Jesper",
+  "last_name": "Martin",
+  "full_name": "Jesper Martin",
+  "headline": "CEO | \ud83d\ude80",
+  "current_role_title": "",
+  "company_name": "",
+  "location_name": "London, UK",
+  "summary": "",
+  "positions": [],
+  "educations": [
+    {
+      "school_name": "Berkeley",
+      "degree_name": "Diploma",
+      "field_of_study": ""
+    }
+  ],
+  "profile_text": "ceo | \ud83d\ude80 london, uk berkeley diploma"
+}

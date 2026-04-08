@@ -1,0 +1,26 @@
+{
+  "public_identifier": "user-29",
+  "linkedin_url": "https://www.linkedin.com/in/user-29/",
+  "first_name": "Ivan",
+  "last_name": "Davis",
+  "full_name": "Ivan Davis",
+  "headline": "Product Manager | \ud83d\ude80",
+  "current_role_title": "Sales Associate",
+  "company_name": "Uber",
+  "location_name": "Toronto, Canada",
+  "summary": "This is a summary with some extra spaces.",
+  "positions": [
+    {
+      "title": "Sales Associate",
+      "company_name": "Uber",
+      "location": "Bengaluru, India"
+    },
+    {
+      "title": "Product Manager",
+      "company_name": "Microsoft",
+      "location": ""
+    }
+  ],
+  "educations": [],
+  "profile_text": "product manager | \ud83d\ude80 this is a summary with some extra spaces. toronto, canada sales associate uber bengaluru, india product manager microsoft"
+}

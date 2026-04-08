@@ -1,0 +1,32 @@
+{
+  "public_identifier": "user-47",
+  "linkedin_url": "https://www.linkedin.com/in/user-47/",
+  "first_name": "Quentin",
+  "last_name": "",
+  "full_name": "Quentin",
+  "headline": "DevOps Ninja | \ud83d\ude80",
+  "current_role_title": "Designer",
+  "company_name": "Amazon",
+  "location_name": "Toronto, Canada",
+  "summary": "",
+  "positions": [
+    {
+      "title": "Designer",
+      "company_name": "Amazon",
+      "location": "New York, NY"
+    },
+    {
+      "title": "CTO",
+      "company_name": "Uber",
+      "location": ""
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "Cambridge",
+      "degree_name": "B.Sc.",
+      "field_of_study": "Computer Science"
+    }
+  ],
+  "profile_text": "devops ninja | \ud83d\ude80 toronto, canada designer amazon new york, ny cto uber cambridge b.sc. computer science"
+}

@@ -1,0 +1,32 @@
+{
+  "public_identifier": "user-35",
+  "linkedin_url": "https://www.linkedin.com/in/user-35/",
+  "first_name": "Sybil",
+  "last_name": "",
+  "full_name": "Quentin Thomas",
+  "headline": "Product Manager | \ud83d\ude80",
+  "current_role_title": "Product Manager",
+  "company_name": "Netflix",
+  "location_name": "Paris, France",
+  "summary": "",
+  "positions": [
+    {
+      "title": "Product Manager",
+      "company_name": "Netflix",
+      "location": ""
+    },
+    {
+      "title": "Data Scientist",
+      "company_name": "Amazon",
+      "location": "San Francisco, CA"
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "Oxford",
+      "degree_name": "",
+      "field_of_study": "Computer Science"
+    }
+  ],
+  "profile_text": "product manager | \ud83d\ude80 paris, france product manager netflix data scientist amazon san francisco, ca oxford computer science"
+}

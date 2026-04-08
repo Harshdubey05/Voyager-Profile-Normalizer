@@ -1,0 +1,36 @@
+{
+  "public_identifier": " user-36 ",
+  "first_name": " Alice ",
+  "last_name": " Hernandez ",
+  "full_name": null,
+  "headline": "  Sales Associate  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": null,
+  "positions": [
+    {
+      "title": " CEO ",
+      "company_name": " Microsoft ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": null
+      }
+    },
+    {
+      "title": " Software Engineer ",
+      "company_name": " Microsoft ",
+      "location": "Paris, France",
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    }
+  ],
+  "educations": []
+}

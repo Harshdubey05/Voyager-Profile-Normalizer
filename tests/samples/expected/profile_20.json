@@ -1,0 +1,26 @@
+{
+  "public_identifier": "user-20",
+  "linkedin_url": "https://www.linkedin.com/in/user-20/",
+  "first_name": "",
+  "last_name": "Anderson",
+  "full_name": "Anderson",
+  "headline": "Product Manager | \ud83d\ude80",
+  "current_role_title": "",
+  "company_name": "",
+  "location_name": "San Francisco, CA",
+  "summary": "",
+  "positions": [],
+  "educations": [
+    {
+      "school_name": "Cambridge",
+      "degree_name": "",
+      "field_of_study": ""
+    },
+    {
+      "school_name": "NTU",
+      "degree_name": "B.A.",
+      "field_of_study": ""
+    }
+  ],
+  "profile_text": "product manager | \ud83d\ude80 san francisco, ca cambridge ntu b.a."
+}

@@ -1,0 +1,37 @@
+{
+  "public_identifier": "user-3",
+  "linkedin_url": "https://www.linkedin.com/in/user-3/",
+  "first_name": "Jesper",
+  "last_name": "Martin",
+  "full_name": "Jesper Martin",
+  "headline": "Sales Associate | \ud83d\ude80",
+  "current_role_title": "",
+  "company_name": "",
+  "location_name": "Sydney, Australia",
+  "summary": "This is a summary with some extra spaces.",
+  "positions": [
+    {
+      "title": "Marketing Head",
+      "company_name": "Apple",
+      "location": ""
+    },
+    {
+      "title": "Designer",
+      "company_name": "Uber",
+      "location": ""
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "IIT Bombay",
+      "degree_name": "MBA",
+      "field_of_study": "Computer Science"
+    },
+    {
+      "school_name": "NTU",
+      "degree_name": "",
+      "field_of_study": "Computer Science"
+    }
+  ],
+  "profile_text": "sales associate | \ud83d\ude80 this is a summary with some extra spaces. sydney, australia marketing head apple designer uber iit bombay mba computer science ntu computer science"
+}

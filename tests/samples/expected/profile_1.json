@@ -1,0 +1,26 @@
+{
+  "public_identifier": "",
+  "linkedin_url": "",
+  "first_name": "Peggy",
+  "last_name": "Taylor",
+  "full_name": "Peggy Taylor",
+  "headline": "Sales Associate | \ud83d\ude80",
+  "current_role_title": "",
+  "company_name": "",
+  "location_name": "London, UK",
+  "summary": "This is a summary with some extra spaces.",
+  "positions": [],
+  "educations": [
+    {
+      "school_name": "NTU",
+      "degree_name": "Diploma",
+      "field_of_study": ""
+    },
+    {
+      "school_name": "Stanford University",
+      "degree_name": "",
+      "field_of_study": ""
+    }
+  ],
+  "profile_text": "sales associate | \ud83d\ude80 this is a summary with some extra spaces. london, uk ntu diploma stanford university"
+}

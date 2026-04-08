@@ -1,0 +1,51 @@
+{
+  "public_identifier": " user-41 ",
+  "first_name": " Sybil ",
+  "last_name": " Wilson ",
+  "full_name": null,
+  "headline": "",
+  "summary": "This is a summary with   some    extra spaces.",
+  "location_name": "Paris, France",
+  "positions": [
+    {
+      "title": " Software Engineer ",
+      "company_name": " Spotify ",
+      "location": "Sydney, Australia",
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": {
+          "year": 2021
+        }
+      }
+    },
+    {
+      "title": " CEO ",
+      "company_name": " Apple ",
+      "location": "Sydney, Australia",
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    },
+    {
+      "title": " Product Manager ",
+      "company_name": " Uber ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2018
+        },
+        "end": {
+          "year": 2019
+        }
+      }
+    }
+  ],
+  "educations": []
+}

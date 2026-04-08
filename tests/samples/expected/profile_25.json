@@ -1,0 +1,32 @@
+{
+  "public_identifier": "user-25",
+  "linkedin_url": "https://www.linkedin.com/in/user-25/",
+  "first_name": "Kevin",
+  "last_name": "",
+  "full_name": "Kevin",
+  "headline": "CEO | \ud83d\ude80",
+  "current_role_title": "DevOps Ninja",
+  "company_name": "Apple",
+  "location_name": "San Francisco, CA",
+  "summary": "",
+  "positions": [
+    {
+      "title": "DevOps Ninja",
+      "company_name": "Apple",
+      "location": ""
+    },
+    {
+      "title": "Sales Associate",
+      "company_name": "Netflix",
+      "location": ""
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "IIT Bombay",
+      "degree_name": "Diploma",
+      "field_of_study": ""
+    }
+  ],
+  "profile_text": "ceo | \ud83d\ude80 san francisco, ca devops ninja apple sales associate netflix iit bombay diploma"
+}

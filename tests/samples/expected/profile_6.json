@@ -1,0 +1,32 @@
+{
+  "public_identifier": "user-6",
+  "linkedin_url": "https://www.linkedin.com/in/user-6/",
+  "first_name": "Niaj",
+  "last_name": "Taylor",
+  "full_name": "Niaj Taylor",
+  "headline": "CEO | \ud83d\ude80",
+  "current_role_title": "Data Scientist",
+  "company_name": "Tesla",
+  "location_name": "Tokyo, Japan",
+  "summary": "This is a summary with some extra spaces.",
+  "positions": [
+    {
+      "title": "Data Scientist",
+      "company_name": "Tesla",
+      "location": ""
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "Insead",
+      "degree_name": "",
+      "field_of_study": ""
+    },
+    {
+      "school_name": "Stanford University",
+      "degree_name": "Ph.D.",
+      "field_of_study": ""
+    }
+  ],
+  "profile_text": "ceo | \ud83d\ude80 this is a summary with some extra spaces. tokyo, japan data scientist tesla insead stanford university ph.d."
+}

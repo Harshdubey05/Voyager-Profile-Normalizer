@@ -1,0 +1,26 @@
+{
+  "public_identifier": "user-36",
+  "linkedin_url": "https://www.linkedin.com/in/user-36/",
+  "first_name": "Alice",
+  "last_name": "Hernandez",
+  "full_name": "Alice Hernandez",
+  "headline": "Sales Associate | \ud83d\ude80",
+  "current_role_title": "CEO",
+  "company_name": "Microsoft",
+  "location_name": "",
+  "summary": "",
+  "positions": [
+    {
+      "title": "CEO",
+      "company_name": "Microsoft",
+      "location": ""
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "Microsoft",
+      "location": "Paris, France"
+    }
+  ],
+  "educations": [],
+  "profile_text": "sales associate | \ud83d\ude80 ceo microsoft software engineer microsoft paris, france"
+}

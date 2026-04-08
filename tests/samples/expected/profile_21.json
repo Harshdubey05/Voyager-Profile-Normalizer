@@ -1,0 +1,37 @@
+{
+  "public_identifier": "user-21",
+  "linkedin_url": "https://www.linkedin.com/in/user-21/",
+  "first_name": "Laura",
+  "last_name": "Davis",
+  "full_name": "Jesper Martinez",
+  "headline": "DevOps Ninja | \ud83d\ude80",
+  "current_role_title": "Sales Associate",
+  "company_name": "Airbnb",
+  "location_name": "",
+  "summary": "",
+  "positions": [
+    {
+      "title": "Sales Associate",
+      "company_name": "Airbnb",
+      "location": ""
+    },
+    {
+      "title": "CEO",
+      "company_name": "Netflix",
+      "location": "Sydney, Australia"
+    },
+    {
+      "title": "Marketing Head",
+      "company_name": "Microsoft",
+      "location": ""
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "Berkeley",
+      "degree_name": "Ph.D.",
+      "field_of_study": ""
+    }
+  ],
+  "profile_text": "devops ninja | \ud83d\ude80 sales associate airbnb ceo netflix sydney, australia marketing head microsoft berkeley ph.d."
+}

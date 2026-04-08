@@ -1,0 +1,37 @@
+{
+  "public_identifier": "user-48",
+  "linkedin_url": "https://www.linkedin.com/in/user-48/",
+  "first_name": "Niaj",
+  "last_name": "Moore",
+  "full_name": "Niaj Moore",
+  "headline": "Designer | \ud83d\ude80",
+  "current_role_title": "Software Engineer",
+  "company_name": "Uber",
+  "location_name": "Singapore",
+  "summary": "This is a summary with some extra spaces.",
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "company_name": "Uber",
+      "location": "Bengaluru, India"
+    },
+    {
+      "title": "DevOps Ninja",
+      "company_name": "Spotify",
+      "location": ""
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "Insead",
+      "degree_name": "",
+      "field_of_study": "Computer Science"
+    },
+    {
+      "school_name": "MIT",
+      "degree_name": "M.S.",
+      "field_of_study": ""
+    }
+  ],
+  "profile_text": "designer | \ud83d\ude80 this is a summary with some extra spaces. singapore software engineer uber bengaluru, india devops ninja spotify insead computer science mit m.s."
+}

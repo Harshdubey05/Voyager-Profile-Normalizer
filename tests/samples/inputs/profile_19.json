@@ -1,0 +1,60 @@
+{
+  "public_identifier": " user-19 ",
+  "first_name": null,
+  "last_name": null,
+  "full_name": null,
+  "headline": "  Product Manager  |  \ud83d\ude80  ",
+  "summary": "This is a summary with   some    extra spaces.",
+  "location_name": "Berlin, Germany",
+  "positions": [
+    {
+      "title": " Marketing Head ",
+      "company_name": " Uber ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": null
+      }
+    },
+    {
+      "title": " HR Specialist ",
+      "company_name": " Google ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    },
+    {
+      "title": " HR Specialist ",
+      "company_name": " Meta ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2018
+        },
+        "end": {
+          "year": 2019
+        }
+      }
+    }
+  ],
+  "educations": [
+    {
+      "school_name": " MIT ",
+      "degree_name": " M.A. ",
+      "field_of_study": "Computer Science"
+    },
+    {
+      "school_name": " Harvard ",
+      "degree_name": " Ph.D. ",
+      "field_of_study": ""
+    }
+  ]
+}

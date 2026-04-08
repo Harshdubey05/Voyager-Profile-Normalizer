@@ -1,0 +1,34 @@
+{
+  "public_identifier": " user-6 ",
+  "first_name": " Niaj ",
+  "last_name": " Taylor ",
+  "full_name": null,
+  "headline": "  CEO  |  \ud83d\ude80  ",
+  "summary": "This is a summary with   some    extra spaces.",
+  "location_name": "Tokyo, Japan",
+  "positions": [
+    {
+      "title": " Data Scientist ",
+      "company_name": " Tesla ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": null
+      }
+    }
+  ],
+  "educations": [
+    {
+      "school_name": " Insead ",
+      "degree_name": null,
+      "field_of_study": ""
+    },
+    {
+      "school_name": " Stanford University ",
+      "degree_name": " Ph.D. ",
+      "field_of_study": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "public_identifier": null,
+  "first_name": " Rose ",
+  "last_name": " Smith ",
+  "full_name": null,
+  "headline": "",
+  "summary": "This is a summary with   some    extra spaces.",
+  "location_name": null,
+  "positions": [
+    {
+      "title": " Data Scientist ",
+      "company_name": " Amazon ",
+      "location": "San Francisco, CA",
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": null
+      }
+    },
+    {
+      "title": " Data Scientist ",
+      "company_name": " Netflix ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    },
+    {
+      "title": " CTO ",
+      "company_name": " Uber ",
+      "location": "Tokyo, Japan",
+      "date_range": {
+        "start": {
+          "year": 2018
+        },
+        "end": {
+          "year": 2019
+        }
+      }
+    }
+  ],
+  "educations": []
+}

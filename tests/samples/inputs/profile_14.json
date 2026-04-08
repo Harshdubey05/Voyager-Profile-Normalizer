@@ -1,0 +1,22 @@
+{
+  "public_identifier": " user-14 ",
+  "first_name": " Eve ",
+  "last_name": " Thomas ",
+  "full_name": " Niaj   Anderson ",
+  "headline": "  Sales Associate  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": "Toronto, Canada",
+  "positions": [],
+  "educations": [
+    {
+      "school_name": " Wharton ",
+      "degree_name": null,
+      "field_of_study": "Computer Science"
+    },
+    {
+      "school_name": " Oxford ",
+      "degree_name": " M.S. ",
+      "field_of_study": ""
+    }
+  ]
+}

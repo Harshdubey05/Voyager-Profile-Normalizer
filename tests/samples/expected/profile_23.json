@@ -1,0 +1,42 @@
+{
+  "public_identifier": "user-23",
+  "linkedin_url": "https://www.linkedin.com/in/user-23/",
+  "first_name": "Kevin",
+  "last_name": "Smith",
+  "full_name": "Rose Lopez",
+  "headline": "Software Engineer | \ud83d\ude80",
+  "current_role_title": "Data Scientist",
+  "company_name": "Netflix",
+  "location_name": "London, UK",
+  "summary": "",
+  "positions": [
+    {
+      "title": "Data Scientist",
+      "company_name": "Netflix",
+      "location": ""
+    },
+    {
+      "title": "CEO",
+      "company_name": "Google",
+      "location": ""
+    },
+    {
+      "title": "Marketing Head",
+      "company_name": "Amazon",
+      "location": ""
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "Insead",
+      "degree_name": "",
+      "field_of_study": ""
+    },
+    {
+      "school_name": "Harvard",
+      "degree_name": "",
+      "field_of_study": "Computer Science"
+    }
+  ],
+  "profile_text": "software engineer | \ud83d\ude80 london, uk data scientist netflix ceo google marketing head amazon insead harvard computer science"
+}

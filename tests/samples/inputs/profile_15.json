@@ -1,0 +1,47 @@
+{
+  "public_identifier": " user-15 ",
+  "first_name": " Oscar ",
+  "last_name": " Martinez ",
+  "full_name": null,
+  "headline": "  Marketing Head  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": "San Francisco, CA",
+  "positions": [
+    {
+      "title": " Data Scientist ",
+      "company_name": " Uber ",
+      "location": "San Francisco, CA",
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": null
+      }
+    },
+    {
+      "title": " Designer ",
+      "company_name": " Airbnb ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    }
+  ],
+  "educations": [
+    {
+      "school_name": " Harvard ",
+      "degree_name": " Diploma ",
+      "field_of_study": "Computer Science"
+    },
+    {
+      "school_name": " Harvard ",
+      "degree_name": null,
+      "field_of_study": "Computer Science"
+    }
+  ]
+}

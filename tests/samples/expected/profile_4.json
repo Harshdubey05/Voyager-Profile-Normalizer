@@ -1,0 +1,37 @@
+{
+  "public_identifier": "user-4",
+  "linkedin_url": "https://www.linkedin.com/in/user-4/",
+  "first_name": "Ivan",
+  "last_name": "Anderson",
+  "full_name": "Ivan Anderson",
+  "headline": "CTO | \ud83d\ude80",
+  "current_role_title": "CTO",
+  "company_name": "Tesla",
+  "location_name": "Paris, France",
+  "summary": "This is a summary with some extra spaces.",
+  "positions": [
+    {
+      "title": "CTO",
+      "company_name": "Tesla",
+      "location": ""
+    },
+    {
+      "title": "Marketing Head",
+      "company_name": "Apple",
+      "location": "Sydney, Australia"
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "Cambridge",
+      "degree_name": "",
+      "field_of_study": ""
+    },
+    {
+      "school_name": "Wharton",
+      "degree_name": "B.Sc.",
+      "field_of_study": ""
+    }
+  ],
+  "profile_text": "cto | \ud83d\ude80 this is a summary with some extra spaces. paris, france cto tesla marketing head apple sydney, australia cambridge wharton b.sc."
+}

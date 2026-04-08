@@ -1,0 +1,18 @@
+{
+  "public_identifier": " user-8 ",
+  "first_name": " Mallory ",
+  "last_name": " Garcia ",
+  "full_name": null,
+  "headline": "",
+  "summary": "This is a summary with   some    extra spaces.",
+  "location_name": null,
+  "positions": [
+    {
+      "title": " Designer ",
+      "company_name": " Google ",
+      "location": "Bengaluru, India",
+      "date_range": null
+    }
+  ],
+  "educations": []
+}

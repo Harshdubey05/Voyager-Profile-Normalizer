@@ -1,0 +1,43 @@
+{
+  "public_identifier": " user-5 ",
+  "first_name": " Grace ",
+  "last_name": " Hernandez ",
+  "full_name": " Ivan   Moore ",
+  "headline": "  Product Manager  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": "Paris, France",
+  "positions": [
+    {
+      "title": " HR Specialist ",
+      "company_name": " Netflix ",
+      "location": "Singapore",
+      "date_range": null
+    },
+    {
+      "title": " Software Engineer ",
+      "company_name": " Apple ",
+      "location": "Toronto, Canada",
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    },
+    {
+      "title": " Sales Associate ",
+      "company_name": " Meta ",
+      "location": "Sydney, Australia",
+      "date_range": null
+    }
+  ],
+  "educations": [
+    {
+      "school_name": " Oxford ",
+      "degree_name": null,
+      "field_of_study": ""
+    }
+  ]
+}

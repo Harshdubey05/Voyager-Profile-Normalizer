@@ -1,0 +1,25 @@
+{
+  "public_identifier": null,
+  "first_name": null,
+  "last_name": null,
+  "full_name": null,
+  "headline": "  HR Specialist  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": "Sydney, Australia",
+  "positions": [
+    {
+      "title": " HR Specialist ",
+      "company_name": " Meta ",
+      "location": "Berlin, Germany",
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": {
+          "year": 2021
+        }
+      }
+    }
+  ],
+  "educations": []
+}

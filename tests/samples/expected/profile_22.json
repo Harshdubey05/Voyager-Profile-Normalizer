@@ -1,0 +1,32 @@
+{
+  "public_identifier": "user-22",
+  "linkedin_url": "https://www.linkedin.com/in/user-22/",
+  "first_name": "Oscar",
+  "last_name": "Jackson",
+  "full_name": "Oscar Jackson",
+  "headline": "",
+  "current_role_title": "Designer",
+  "company_name": "Apple",
+  "location_name": "London, UK",
+  "summary": "This is a summary with some extra spaces.",
+  "positions": [
+    {
+      "title": "Designer",
+      "company_name": "Apple",
+      "location": ""
+    },
+    {
+      "title": "Marketing Head",
+      "company_name": "Microsoft",
+      "location": "San Francisco, CA"
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "Insead",
+      "degree_name": "B.Tech",
+      "field_of_study": ""
+    }
+  ],
+  "profile_text": "this is a summary with some extra spaces. london, uk designer apple marketing head microsoft san francisco, ca insead b.tech"
+}

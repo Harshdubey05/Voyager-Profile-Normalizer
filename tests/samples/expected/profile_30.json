@@ -1,0 +1,21 @@
+{
+  "public_identifier": "",
+  "linkedin_url": "",
+  "first_name": "Kevin",
+  "last_name": "Garcia",
+  "full_name": "Kevin Garcia",
+  "headline": "Designer | \ud83d\ude80",
+  "current_role_title": "",
+  "company_name": "",
+  "location_name": "",
+  "summary": "",
+  "positions": [
+    {
+      "title": "DevOps Ninja",
+      "company_name": "Airbnb",
+      "location": "Toronto, Canada"
+    }
+  ],
+  "educations": [],
+  "profile_text": "designer | \ud83d\ude80 devops ninja airbnb toronto, canada"
+}

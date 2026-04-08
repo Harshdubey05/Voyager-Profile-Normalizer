@@ -1,0 +1,37 @@
+{
+  "public_identifier": "user-5",
+  "linkedin_url": "https://www.linkedin.com/in/user-5/",
+  "first_name": "Grace",
+  "last_name": "Hernandez",
+  "full_name": "Ivan Moore",
+  "headline": "Product Manager | \ud83d\ude80",
+  "current_role_title": "HR Specialist",
+  "company_name": "Netflix",
+  "location_name": "Paris, France",
+  "summary": "",
+  "positions": [
+    {
+      "title": "HR Specialist",
+      "company_name": "Netflix",
+      "location": "Singapore"
+    },
+    {
+      "title": "Software Engineer",
+      "company_name": "Apple",
+      "location": "Toronto, Canada"
+    },
+    {
+      "title": "Sales Associate",
+      "company_name": "Meta",
+      "location": "Sydney, Australia"
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "Oxford",
+      "degree_name": "",
+      "field_of_study": ""
+    }
+  ],
+  "profile_text": "product manager | \ud83d\ude80 paris, france hr specialist netflix singapore software engineer apple toronto, canada sales associate meta sydney, australia oxford"
+}

@@ -1,0 +1,42 @@
+{
+  "public_identifier": "user-46",
+  "linkedin_url": "https://www.linkedin.com/in/user-46/",
+  "first_name": "Mallory",
+  "last_name": "",
+  "full_name": "Frank Thompson",
+  "headline": "Designer | \ud83d\ude80",
+  "current_role_title": "Marketing Head",
+  "company_name": "Google",
+  "location_name": "London, UK",
+  "summary": "This is a summary with some extra spaces.",
+  "positions": [
+    {
+      "title": "Marketing Head",
+      "company_name": "Google",
+      "location": ""
+    },
+    {
+      "title": "Designer",
+      "company_name": "Amazon",
+      "location": ""
+    },
+    {
+      "title": "DevOps Ninja",
+      "company_name": "Meta",
+      "location": ""
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "NTU",
+      "degree_name": "M.S.",
+      "field_of_study": ""
+    },
+    {
+      "school_name": "Insead",
+      "degree_name": "B.A.",
+      "field_of_study": ""
+    }
+  ],
+  "profile_text": "designer | \ud83d\ude80 this is a summary with some extra spaces. london, uk marketing head google designer amazon devops ninja meta ntu m.s. insead b.a."
+}

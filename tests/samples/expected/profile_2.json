@@ -1,0 +1,32 @@
+{
+  "public_identifier": "user-2",
+  "linkedin_url": "https://www.linkedin.com/in/user-2/",
+  "first_name": "Grace",
+  "last_name": "Wilson",
+  "full_name": "Grace Wilson",
+  "headline": "Data Scientist | \ud83d\ude80",
+  "current_role_title": "CEO",
+  "company_name": "Google",
+  "location_name": "Sydney, Australia",
+  "summary": "",
+  "positions": [
+    {
+      "title": "CEO",
+      "company_name": "Google",
+      "location": "Paris, France"
+    },
+    {
+      "title": "Marketing Head",
+      "company_name": "Netflix",
+      "location": ""
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "Cambridge",
+      "degree_name": "",
+      "field_of_study": ""
+    }
+  ],
+  "profile_text": "data scientist | \ud83d\ude80 sydney, australia ceo google paris, france marketing head netflix cambridge"
+}

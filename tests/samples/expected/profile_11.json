@@ -1,0 +1,32 @@
+{
+  "public_identifier": "user-11",
+  "linkedin_url": "https://www.linkedin.com/in/user-11/",
+  "first_name": "Quentin",
+  "last_name": "",
+  "full_name": "Quentin",
+  "headline": "Marketing Head | \ud83d\ude80",
+  "current_role_title": "",
+  "company_name": "",
+  "location_name": "Berlin, Germany",
+  "summary": "",
+  "positions": [
+    {
+      "title": "CTO",
+      "company_name": "Netflix",
+      "location": ""
+    },
+    {
+      "title": "Product Manager",
+      "company_name": "Spotify",
+      "location": ""
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "MIT",
+      "degree_name": "",
+      "field_of_study": "Computer Science"
+    }
+  ],
+  "profile_text": "marketing head | \ud83d\ude80 berlin, germany cto netflix product manager spotify mit computer science"
+}

@@ -1,0 +1,26 @@
+{
+  "public_identifier": "user-28",
+  "linkedin_url": "https://www.linkedin.com/in/user-28/",
+  "first_name": "Laura",
+  "last_name": "Dubey",
+  "full_name": "Laura Dubey",
+  "headline": "Sales Associate | \ud83d\ude80",
+  "current_role_title": "",
+  "company_name": "",
+  "location_name": "Berlin, Germany",
+  "summary": "",
+  "positions": [],
+  "educations": [
+    {
+      "school_name": "Cambridge",
+      "degree_name": "M.A.",
+      "field_of_study": ""
+    },
+    {
+      "school_name": "Berkeley",
+      "degree_name": "B.A.",
+      "field_of_study": "Computer Science"
+    }
+  ],
+  "profile_text": "sales associate | \ud83d\ude80 berlin, germany cambridge m.a. berkeley b.a. computer science"
+}

@@ -1,0 +1,48 @@
+{
+  "public_identifier": " user-37 ",
+  "first_name": " Peggy ",
+  "last_name": " Brown ",
+  "full_name": " Grace   Anderson ",
+  "headline": "  HR Specialist  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": "Singapore",
+  "positions": [
+    {
+      "title": " CTO ",
+      "company_name": " Airbnb ",
+      "location": null,
+      "date_range": null
+    },
+    {
+      "title": " DevOps Ninja ",
+      "company_name": " Netflix ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    },
+    {
+      "title": " Product Manager ",
+      "company_name": " Google ",
+      "location": null,
+      "date_range": null
+    }
+  ],
+  "educations": [
+    {
+      "school_name": " Wharton ",
+      "degree_name": " B.A. ",
+      "field_of_study": ""
+    },
+    {
+      "school_name": " Berkeley ",
+      "degree_name": " M.A. ",
+      "field_of_study": ""
+    }
+  ]
+}

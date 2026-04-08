@@ -1,0 +1,21 @@
+{
+  "public_identifier": "user-9",
+  "linkedin_url": "https://www.linkedin.com/in/user-9/",
+  "first_name": "Jesper",
+  "last_name": "Moore",
+  "full_name": "Jesper Wilson",
+  "headline": "Marketing Head | \ud83d\ude80",
+  "current_role_title": "CEO",
+  "company_name": "Netflix",
+  "location_name": "Tokyo, Japan",
+  "summary": "",
+  "positions": [
+    {
+      "title": "CEO",
+      "company_name": "Netflix",
+      "location": "Berlin, Germany"
+    }
+  ],
+  "educations": [],
+  "profile_text": "marketing head | \ud83d\ude80 tokyo, japan ceo netflix berlin, germany"
+}

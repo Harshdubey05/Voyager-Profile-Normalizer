@@ -1,0 +1,17 @@
+{
+  "public_identifier": " user-26 ",
+  "first_name": " Peggy ",
+  "last_name": " Jackson ",
+  "full_name": null,
+  "headline": "  Software Engineer  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": "San Francisco, CA",
+  "positions": [],
+  "educations": [
+    {
+      "school_name": " Oxford ",
+      "degree_name": null,
+      "field_of_study": "Computer Science"
+    }
+  ]
+}

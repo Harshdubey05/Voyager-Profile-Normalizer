@@ -1,0 +1,41 @@
+{
+  "public_identifier": " user-23 ",
+  "first_name": " Kevin ",
+  "last_name": " Smith ",
+  "full_name": " Rose   Lopez ",
+  "headline": "  Software Engineer  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": "London, UK",
+  "positions": [
+    {
+      "title": " Data Scientist ",
+      "company_name": " Netflix ",
+      "location": null,
+      "date_range": null
+    },
+    {
+      "title": " CEO ",
+      "company_name": " Google ",
+      "location": null,
+      "date_range": null
+    },
+    {
+      "title": " Marketing Head ",
+      "company_name": " Amazon ",
+      "location": null,
+      "date_range": null
+    }
+  ],
+  "educations": [
+    {
+      "school_name": " Insead ",
+      "degree_name": null,
+      "field_of_study": ""
+    },
+    {
+      "school_name": " Harvard ",
+      "degree_name": null,
+      "field_of_study": "Computer Science"
+    }
+  ]
+}

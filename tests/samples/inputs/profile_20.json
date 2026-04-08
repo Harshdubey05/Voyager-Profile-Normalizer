@@ -1,0 +1,22 @@
+{
+  "public_identifier": " user-20 ",
+  "first_name": null,
+  "last_name": " Anderson ",
+  "full_name": null,
+  "headline": "  Product Manager  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": "San Francisco, CA",
+  "positions": [],
+  "educations": [
+    {
+      "school_name": " Cambridge ",
+      "degree_name": null,
+      "field_of_study": ""
+    },
+    {
+      "school_name": " NTU ",
+      "degree_name": " B.A. ",
+      "field_of_study": ""
+    }
+  ]
+}

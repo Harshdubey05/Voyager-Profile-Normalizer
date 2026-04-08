@@ -1,0 +1,42 @@
+{
+  "public_identifier": "user-37",
+  "linkedin_url": "https://www.linkedin.com/in/user-37/",
+  "first_name": "Peggy",
+  "last_name": "Brown",
+  "full_name": "Grace Anderson",
+  "headline": "HR Specialist | \ud83d\ude80",
+  "current_role_title": "CTO",
+  "company_name": "Airbnb",
+  "location_name": "Singapore",
+  "summary": "",
+  "positions": [
+    {
+      "title": "CTO",
+      "company_name": "Airbnb",
+      "location": ""
+    },
+    {
+      "title": "DevOps Ninja",
+      "company_name": "Netflix",
+      "location": ""
+    },
+    {
+      "title": "Product Manager",
+      "company_name": "Google",
+      "location": ""
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "Wharton",
+      "degree_name": "B.A.",
+      "field_of_study": ""
+    },
+    {
+      "school_name": "Berkeley",
+      "degree_name": "M.A.",
+      "field_of_study": ""
+    }
+  ],
+  "profile_text": "hr specialist | \ud83d\ude80 singapore cto airbnb devops ninja netflix product manager google wharton b.a. berkeley m.a."
+}

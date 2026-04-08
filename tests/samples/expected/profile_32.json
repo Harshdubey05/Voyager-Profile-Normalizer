@@ -1,0 +1,31 @@
+{
+  "public_identifier": "user-32",
+  "linkedin_url": "https://www.linkedin.com/in/user-32/",
+  "first_name": "Sybil",
+  "last_name": "Wilson",
+  "full_name": "Sybil Wilson",
+  "headline": "HR Specialist | \ud83d\ude80",
+  "current_role_title": "Product Manager",
+  "company_name": "Meta",
+  "location_name": "Sydney, Australia",
+  "summary": "",
+  "positions": [
+    {
+      "title": "Product Manager",
+      "company_name": "Meta",
+      "location": ""
+    },
+    {
+      "title": "Product Manager",
+      "company_name": "Airbnb",
+      "location": ""
+    },
+    {
+      "title": "HR Specialist",
+      "company_name": "Netflix",
+      "location": "San Francisco, CA"
+    }
+  ],
+  "educations": [],
+  "profile_text": "hr specialist | \ud83d\ude80 sydney, australia product manager meta product manager airbnb hr specialist netflix san francisco, ca"
+}

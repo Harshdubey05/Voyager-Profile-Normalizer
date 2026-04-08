@@ -1,0 +1,55 @@
+{
+  "public_identifier": " user-21 ",
+  "first_name": " Laura ",
+  "last_name": " Davis ",
+  "full_name": " Jesper   Martinez ",
+  "headline": "  DevOps Ninja  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": null,
+  "positions": [
+    {
+      "title": " Sales Associate ",
+      "company_name": " Airbnb ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": null
+      }
+    },
+    {
+      "title": " CEO ",
+      "company_name": " Netflix ",
+      "location": "Sydney, Australia",
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    },
+    {
+      "title": " Marketing Head ",
+      "company_name": " Microsoft ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2018
+        },
+        "end": {
+          "year": 2019
+        }
+      }
+    }
+  ],
+  "educations": [
+    {
+      "school_name": " Berkeley ",
+      "degree_name": " Ph.D. ",
+      "field_of_study": ""
+    }
+  ]
+}

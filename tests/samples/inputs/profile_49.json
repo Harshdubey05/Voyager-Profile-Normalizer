@@ -1,0 +1,49 @@
+{
+  "public_identifier": " user-49 ",
+  "first_name": " Laura ",
+  "last_name": " Jackson ",
+  "full_name": null,
+  "headline": "  Sales Associate  |  \ud83d\ude80  ",
+  "summary": "This is a summary with   some    extra spaces.",
+  "location_name": "Berlin, Germany",
+  "positions": [
+    {
+      "title": " CEO ",
+      "company_name": " Amazon ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": null
+      }
+    },
+    {
+      "title": " CTO ",
+      "company_name": " Apple ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    },
+    {
+      "title": " Designer ",
+      "company_name": " Amazon ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2018
+        },
+        "end": {
+          "year": 2019
+        }
+      }
+    }
+  ],
+  "educations": []
+}

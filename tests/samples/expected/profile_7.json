@@ -1,0 +1,32 @@
+{
+  "public_identifier": "user-7",
+  "linkedin_url": "https://www.linkedin.com/in/user-7/",
+  "first_name": "Peggy",
+  "last_name": "Garcia",
+  "full_name": "Harsh Martinez",
+  "headline": "HR Specialist | \ud83d\ude80",
+  "current_role_title": "",
+  "company_name": "",
+  "location_name": "London, UK",
+  "summary": "",
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "company_name": "Meta",
+      "location": "Toronto, Canada"
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "Harvard",
+      "degree_name": "",
+      "field_of_study": "Computer Science"
+    },
+    {
+      "school_name": "NTU",
+      "degree_name": "B.Tech",
+      "field_of_study": "Computer Science"
+    }
+  ],
+  "profile_text": "hr specialist | \ud83d\ude80 london, uk software engineer meta toronto, canada harvard computer science ntu b.tech computer science"
+}

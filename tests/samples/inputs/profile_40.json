@@ -1,0 +1,49 @@
+{
+  "public_identifier": " user-40 ",
+  "first_name": " Oscar ",
+  "last_name": " Davis ",
+  "full_name": " Ivan   Jackson ",
+  "headline": "  Product Manager  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": "Toronto, Canada",
+  "positions": [
+    {
+      "title": " Product Manager ",
+      "company_name": " Amazon ",
+      "location": "San Francisco, CA",
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": null
+      }
+    },
+    {
+      "title": " CTO ",
+      "company_name": " Airbnb ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    },
+    {
+      "title": " Product Manager ",
+      "company_name": " Apple ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2018
+        },
+        "end": {
+          "year": 2019
+        }
+      }
+    }
+  ],
+  "educations": []
+}

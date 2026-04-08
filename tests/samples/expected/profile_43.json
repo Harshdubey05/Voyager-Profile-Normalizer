@@ -1,0 +1,31 @@
+{
+  "public_identifier": "user-43",
+  "linkedin_url": "https://www.linkedin.com/in/user-43/",
+  "first_name": "",
+  "last_name": "",
+  "full_name": "",
+  "headline": "",
+  "current_role_title": "CTO",
+  "company_name": "Apple",
+  "location_name": "",
+  "summary": "",
+  "positions": [
+    {
+      "title": "CTO",
+      "company_name": "Apple",
+      "location": "Bengaluru, India"
+    },
+    {
+      "title": "Sales Associate",
+      "company_name": "Microsoft",
+      "location": ""
+    },
+    {
+      "title": "Product Manager",
+      "company_name": "Microsoft",
+      "location": "London, UK"
+    }
+  ],
+  "educations": [],
+  "profile_text": "cto apple bengaluru, india sales associate microsoft product manager microsoft london, uk"
+}

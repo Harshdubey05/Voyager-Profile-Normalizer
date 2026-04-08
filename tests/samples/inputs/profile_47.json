@@ -1,0 +1,42 @@
+{
+  "public_identifier": " user-47 ",
+  "first_name": " Quentin ",
+  "last_name": null,
+  "full_name": null,
+  "headline": "  DevOps Ninja  |  \ud83d\ude80  ",
+  "summary": null,
+  "location_name": "Toronto, Canada",
+  "positions": [
+    {
+      "title": " Designer ",
+      "company_name": " Amazon ",
+      "location": "New York, NY",
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": null
+      }
+    },
+    {
+      "title": " CTO ",
+      "company_name": " Uber ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    }
+  ],
+  "educations": [
+    {
+      "school_name": " Cambridge ",
+      "degree_name": " B.Sc. ",
+      "field_of_study": "Computer Science"
+    }
+  ]
+}

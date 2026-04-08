@@ -1,0 +1,47 @@
+{
+  "public_identifier": " user-48 ",
+  "first_name": " Niaj ",
+  "last_name": " Moore ",
+  "full_name": null,
+  "headline": "  Designer  |  \ud83d\ude80  ",
+  "summary": "This is a summary with   some    extra spaces.",
+  "location_name": "Singapore",
+  "positions": [
+    {
+      "title": " Software Engineer ",
+      "company_name": " Uber ",
+      "location": "Bengaluru, India",
+      "date_range": {
+        "start": {
+          "year": 2020
+        },
+        "end": null
+      }
+    },
+    {
+      "title": " DevOps Ninja ",
+      "company_name": " Spotify ",
+      "location": null,
+      "date_range": {
+        "start": {
+          "year": 2019
+        },
+        "end": {
+          "year": 2020
+        }
+      }
+    }
+  ],
+  "educations": [
+    {
+      "school_name": " Insead ",
+      "degree_name": null,
+      "field_of_study": "Computer Science"
+    },
+    {
+      "school_name": " MIT ",
+      "degree_name": " M.S. ",
+      "field_of_study": ""
+    }
+  ]
+}

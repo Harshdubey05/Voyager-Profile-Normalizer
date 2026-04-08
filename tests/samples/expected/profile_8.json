@@ -1,0 +1,21 @@
+{
+  "public_identifier": "user-8",
+  "linkedin_url": "https://www.linkedin.com/in/user-8/",
+  "first_name": "Mallory",
+  "last_name": "Garcia",
+  "full_name": "Mallory Garcia",
+  "headline": "",
+  "current_role_title": "Designer",
+  "company_name": "Google",
+  "location_name": "",
+  "summary": "This is a summary with some extra spaces.",
+  "positions": [
+    {
+      "title": "Designer",
+      "company_name": "Google",
+      "location": "Bengaluru, India"
+    }
+  ],
+  "educations": [],
+  "profile_text": "this is a summary with some extra spaces. designer google bengaluru, india"
+}
